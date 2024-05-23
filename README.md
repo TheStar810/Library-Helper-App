@@ -1,2 +1,5 @@
-# Library-Helper-App
-This app was build with Python
+‘Library's Helper Application’ is an application created to help the mechanisms and processes that occur in the Kwik Kian Gie Library related to borrowing and returning books. This application carries the concept of ‘Infinity Book’ which makes it easy for library members to view a list of books based on rating, number of sales, and year of edition. A search feature is also provided to facilitate access to available books. In addition, this application has special features that can only be accessed by library staff, such as searching borrowing data based on the borrower's name, NIM, and book code.
+
+This application also provides effectiveness and efficiency in the process of borrowing and returning books in the library. With this application, it is expected that every library member and library staff can easily use this computerised system.
+
+In addition, this application also has a special mode for library staff equipped with security features. This mode can only be accessed by entering a specific master number, thus maintaining security and validation in the process of borrowing and returning books. With the various features provided, ‘Library's Helper Application’ aims to fulfil the needs of library members and library staff in carrying out activities in the library more efficiently and effectively.
